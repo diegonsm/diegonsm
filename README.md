@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diegonsm
 - 👀 I’m interested in internships in the field of tech!
-- 🌱 I’m currently studying Software Engineering, more specifically data structures and algorithms
+- 🌱 I’m currently studying Software Engineering
 - 📫 How to reach me: diegoserranomartelo@gmail.com
 
 <!---
