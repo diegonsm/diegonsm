@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @diegonsm
-- 👀 I’m interested in internships in the field of tech!
 - 🌱 I’m currently studying Software Engineering
 - 📫 How to reach me: diegoserranomartelo@gmail.com
 
