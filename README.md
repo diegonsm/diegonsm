@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegonsm
-- 🌱 I’m currently studying Software Engineering
+- 🌱 I’m currently studying Computer Engineering
 - 📫 How to reach me: diegoserranomartelo@gmail.com
 
 <!---
